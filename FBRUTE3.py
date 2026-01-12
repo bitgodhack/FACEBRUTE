@@ -17,6 +17,7 @@ def write(text):
 
 versionPath = os.path.join("core", "version.txt")
 
+
 errMsg = lambda msg: write(rd+"\n["+yl+"!"+rd+"] Error: "+yl+msg+rd+ " !!!\n"+wi)
 
 try:import requests
