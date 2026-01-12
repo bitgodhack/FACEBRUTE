@@ -17,7 +17,6 @@ HEADERS = {
 PAYLOAD = {}
 COOKIES = {}
 
-
 def create_form():
     form = dict()
     cookies = {'fr': '0ZvhC3YwYm63ZZat1..Ba0Ipu.Io.AAA.0.0.Ba0Ipu.AWUPqDLy'}
@@ -60,3 +59,4 @@ if __name__ == "__main__":
         print("Trying password [", index, "]: ", password)
         if is_this_a_password(email, index, password):
             break
+
