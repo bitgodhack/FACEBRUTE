@@ -2,7 +2,7 @@
 ```
 This ia an Offensive Bruteforce Attack Tool, Just For Educational Purpose Only
 ```
-For Questions Telegram: https://t.me/HackBitGod Email Me: hackbitgod@gmail.com
+For Questions Telegram: https://t.me/bitgodhack Email Me: bitgodhack@gmail.com
 
 
 ## Install Requirements on any Linux Distribution
@@ -12,7 +12,7 @@ For Questions Telegram: https://t.me/HackBitGod Email Me: hackbitgod@gmail.com
 
 ## Run commands one by one
 ```
->> git clone https://github.com/Hack-BitGod/FACEBRUTE.git
+>> git clone https://github.com/bitgodhack/FACEBRUTE.git
 >> cd FACEBRUTE
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
