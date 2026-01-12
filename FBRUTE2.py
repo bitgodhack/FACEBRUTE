@@ -27,6 +27,7 @@ except:
 print('\n---------- Welcome To FaceBrute ----------\n')
 file=open('passwords.txt','r')
 
+
 email=str(raw_input('Enter Email/Username : ').strip())
 
 print ("\nTarget Email ID : ",email)
@@ -53,3 +54,4 @@ while file:
 	except:
 		print('\nSleeping for time : 5 min\n')
 		time.sleep(300)
+
