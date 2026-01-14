@@ -2,7 +2,7 @@
 ```
 This ia an Offensive Bruteforce Attack Tool, Just For Educational Purpose Only
 ```
-For Questions Telegram: https://t.me/bitgodhack Email Me: bitwallssec@gmail.com
+For Questions Telegram: https://t.me/bitgodhack Email Me: bitgodhack@gmail.com
 
 
 ## Install Requirements on any Linux Distribution
